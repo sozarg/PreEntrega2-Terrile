@@ -1,4 +1,29 @@
 *{
     margin: 0;
     padding: 0;
+    
+}
+
+.navbar{
+    margin-bottom: 0 !important;
+}
+
+.jumbotron{
+    background-image: url(/img/jumbotron.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    text-shadow: 0 0 5px #000;
+
+
+}
+
+h2{
+    background-color: red;
+    margin-bottom: 0;
+}
+
+.nleft{
+    background-image: url(/img/jumbotron.jpg);
+    height: 200px;
 }
